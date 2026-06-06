@@ -14,7 +14,7 @@ public class somanumero {
         System.out.println("Digite o primeiro número");
         System.out.println("==========================");
 
-    int segundoNumero = sc.nextInt();//Variável do Segundo número digitado.
+    int segundoNumero = sc.nextInt();//Variável do Segundo número digitado
 
         System.out.println("============================================================================");
         System.out.println("          O número "+ primeiroNumero + " + "+ segundoNumero + " é igual a:");
