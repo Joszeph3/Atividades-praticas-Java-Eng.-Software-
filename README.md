@@ -35,7 +35,8 @@ Este repositório tem finalidade acadêmica e será atualizado conforme novos ex
 ## Material de Apoio
 O PDF utilizado como base para os exercícios e desafios deste repositório pode ser encontrado em:
 
-📄 [Algoritmos e Lógica de Programação - Exercícios e Respostas](./Materiais/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)
+📄UniBras - ALP - Algoritmos e Lógica de Programação - Atividades de Java. 
+- https://drive.google.com/file/d/1CARnCu7GFYcu6-TQL18LDPnDN3Jr0_kY/view?usp=sharing
 
 Este material contém os enunciados das atividades propostas durante a disciplina.
 
