@@ -21,12 +21,13 @@ public class veificarIdade {
              System.out.println("=====================");
              System.out.println("  É Maior de Idade!");
              System.out.println("=====================");
+             sc.close();
 
              }else{
              System.out.println("====================");
              System.out.println("  É menor de Idade");
              System.out.println("====================");
-
+              sc.close();
              }//fecha if linha 13.
          }else{ //If linha 12
              System.out.println("==================================");
@@ -35,8 +36,8 @@ public class veificarIdade {
              System.out.println("=================================");
 
               sc.next();
-              }//Fechando Else linha 29
+              }//Fechando Else linha 29            
              }//Fechando while linha 7
-  
+     
     }//Fecha "public static void main(String[] args)"
 }//Fecha "public class veificarIdade"
